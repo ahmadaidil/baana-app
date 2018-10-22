@@ -1,0 +1,40 @@
+{
+  "db": [
+    {
+      "db": "",
+      "env": "development",
+      "host": "",
+      "password": "",
+      "port": "",
+      "type": "",
+      "user": ""
+    },
+    {
+      "db": "",
+      "env": "test",
+      "host": "",
+      "password": "",
+      "port": "",
+      "type": "",
+      "user": ""
+    },
+    {
+      "db": "",
+      "env": "staging",
+      "host": "",
+      "password": "",
+      "port": "",
+      "type": "",
+      "user": ""
+    },
+    {
+      "db": "",
+      "env": "production",
+      "host": "",
+      "password": "",
+      "port": "",
+      "type": "",
+      "user": ""
+    }
+  ]
+}

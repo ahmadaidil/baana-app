@@ -1,0 +1,6 @@
+{
+  "DELETE#/users/*id": "User#Delete",
+  "GET#/users/*id": "User#Read",
+  "POST#/users/": "User#Create",
+  "PUT#/users/:id": "User#Update"
+}
